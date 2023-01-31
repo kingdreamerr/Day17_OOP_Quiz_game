@@ -1,8 +1,6 @@
 # Day17
 A quiz game built with OOP where the user gets to answer true or false to some qustions
 
-# Day3
-
 ## Lessons learned today
 
 - Classes
