@@ -22,8 +22,8 @@ class Car:
     def __init__(self, color):
         self.color = color
 
-        def drive(self):
-            print("Vrooom!)
+    def drive(self):
+        print("Vrooom!)
 
 my_car = Car("red")
 my_car.drive()
