@@ -38,7 +38,7 @@ my_car.drive()
 
 #### Preview:
 
-![quiz game](./treasure.png)
+![quiz game](./quiz.png)
 
 ## How to run this on your device
 
